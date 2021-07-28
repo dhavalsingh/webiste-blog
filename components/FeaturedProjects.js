@@ -81,7 +81,7 @@ export default function FeaturedProjects({ projects }) {
               tag={projects[0].fields.tags}
             />
           </SlideUpWhenVisible>
-          <SlideUpWhenVisible>
+{/*           <SlideUpWhenVisible>
             <Box mt={{ md: '-50%' }}>
               <Cards
                 imageURL={projects[1].fields.imageUrl}
@@ -102,7 +102,7 @@ export default function FeaturedProjects({ projects }) {
               deployLink={projects[2].fields.deployLink}
               tag={projects[2].fields.tags}
             />
-          </SlideUpWhenVisible>
+          </SlideUpWhenVisible> */}
         </SimpleGrid>
       </Stack>
     </>

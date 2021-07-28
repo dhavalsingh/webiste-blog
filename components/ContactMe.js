@@ -29,13 +29,13 @@ export default function ContactMe() {
 
         <SlideUpWhenVisible>
           <Text fontSize="md" color="textSecondary" textAlign="center">
-            I'm currently open to work as a{' '}
+            I'm currently open to discuss and learn more about{' '}
             <chakra.span
               color="button1"
               display={{ base: 'block', md: 'inline' }}
             >
               {' '}
-              Front-end Developer.
+              Backend Technology.
             </chakra.span>
             <br /> Let's get in touch and talk more about your projects.
           </Text>
@@ -44,7 +44,7 @@ export default function ContactMe() {
         <SlideUpWhenVisible>
           <Stack isInline spacing={4}>
             <Link
-              href="https://linkedin.com/in/abdulrcs"
+              href="https://www.linkedin.com/in/dhaval-singh-502b79161/"
               isExternal
               onClick={() => handleClick('contact_linkedin')}
             >
@@ -58,7 +58,7 @@ export default function ContactMe() {
               </Button>
             </Link>
             <Link
-              href="mailto:abdulrcs1@gmail.com"
+              href="mailto:dhavalsingh19@gmail.com"
               isExternal
               onClick={() => handleClick('contact_email')}
             >
@@ -73,7 +73,7 @@ export default function ContactMe() {
               </Button>
             </Link>
             <Link
-              href="https://drive.google.com/file/d/1IvhcdThnfMAcPEHy6Yvq4o8vSaIi_ArV/view?usp=sharing"
+              href="https://drive.google.com/file/d/14nZMI2mFmentxbiuBopZU_cQgDeMZSu5/view?usp=sharing"
               isExternal
               onClick={() => handleClick('contact_resume')}
             >

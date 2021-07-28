@@ -40,7 +40,7 @@ export default function Navbar({ enableTransition }) {
         <DrawerContent backgroundColor="secondary">
           <DrawerCloseButton />
           <DrawerHeader borderBottomWidth="1px">
-            <Bracket>&#123;</Bracket>A<Bracket>&#125;</Bracket>
+            <Bracket>&#123;</Bracket>DS<Bracket>&#125;</Bracket>
           </DrawerHeader>
 
           <DrawerBody>
@@ -98,7 +98,7 @@ export default function Navbar({ enableTransition }) {
               fontWeight="bold"
               fontSize="32px"
             >
-              <Bracket>&#123;</Bracket>A<Bracket>&#125;</Bracket>
+              <Bracket>&#123;</Bracket>DS<Bracket>&#125;</Bracket>
             </Text>
           </NextLink>
           {isLargerThan768 ? (

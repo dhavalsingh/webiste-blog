@@ -69,28 +69,31 @@ export default function AboutMe() {
               fontSize={{ base: '14px', md: '16px' }}
               whiteSpace="pre-line"
             >
-              Hey! I'm Abdul Rahman, I've been close to a computer since an
+              Hey! I'm Dhaval Singh, I've been close to a computer since an
               early age, and been passionate about it ever since. <br />
-              <br /> I really liked to build stuff using{' '}
+              <br /> I really liked to break stuff and explore the{' '}
               <MoreInfo
-                text="no-code tools"
-                content="I used to make games without code using RPG Maker VX, and build a simple website with blogspot back in primary school."
+                text="internal workings"
+                content="Especially networking and how things are working at a deeper level."
               />
-              back in 2010, and from that, I explored how to code myself,
+              since 2015, and from that, I explored how to code myself,
               fast-forward to today, I do programming in various languages and
-              technologies, and had the privilege to worked as a{' '}
+              technologies, and have the privilege to work as a{' '}
               <MoreInfo
                 text="Software
-              Engineer in a B2B Company"
+              Engineer in a B2B startup"
                 content={
-                  <Image src="https://i.imgur.com/2vdHCro.png" alt="linkedin" />
+                  <Image src="https://imgur.com/nAd7vhZ"
+                  w="100%"
+                  maxW={{ base: '300px', lg: '350px' }}
+                  maxH={{ base: '300px', lg: '350px' }}
+                  alt="Anarock" />
                 }
               />
-              , I'm interested in building something awesome with code and
-              automate tasks with code, currently focused in
+              , I'm interested in building fast, agile and robust systems, currently focused in
               <MoreInfo
-                text="Web Development,"
-                content="Building web-apps using Javascript Frameworks (React.js and Next.js)"
+                text="Backend Development,"
+                content="Building scalable backend systems using Ruby on Rails"
               />
               <MoreInfo
                 text="Open Source"
@@ -129,7 +132,7 @@ export default function AboutMe() {
                 w="100%"
                 maxW={{ base: '300px', lg: '350px' }}
                 maxH={{ base: '300px', lg: '350px' }}
-                alt="Abdul Rahman"
+                alt="Dhaval Singh"
               />
             </Box>
           </Flex>

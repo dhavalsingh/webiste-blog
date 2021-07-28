@@ -59,7 +59,7 @@ export default function Introduction() {
             position="relative"
             zIndex={1}
           >
-            Abdul Rahman.
+            Dhaval Singh.
           </Heading>
         </SlideFade>
 
@@ -96,7 +96,7 @@ export default function Introduction() {
             <Stack isInline spacing={1}>
               <Box>🎓</Box>
               <Box>
-                Currently an Informatics Student at Universitas Negeri Surabaya.
+                Studied at Bits Pilani Goa Campus.
               </Box>
             </Stack>
           </Text>
@@ -107,7 +107,7 @@ export default function Introduction() {
           transition={{ enter: { duration: 0.4, delay: 1.0 } }}
         >
           <Stack isInline spacing={4}>
-            <Link href="https://github.com/abdulrcs" isExternal>
+            <Link href="https://github.com/dhavalsingh" isExternal>
               <Button
                 leftIcon={<FaGithub color="#3CCF91" />}
                 position="static"
@@ -118,7 +118,7 @@ export default function Introduction() {
                 Github
               </Button>
             </Link>
-            <Link href="https://linkedin.com/in/abdulrcs" isExternal>
+            <Link href="https://www.linkedin.com/in/dhaval-singh-502b79161/" isExternal>
               <Button
                 leftIcon={<FaLinkedin color="#3CCF91" />}
                 position="static"
@@ -129,7 +129,7 @@ export default function Introduction() {
                 LinkedIn
               </Button>
             </Link>
-            <Link href="mailto:abdulrcs1@gmail.com" isExternal>
+            <Link href="mailto:dhavalsingh19@gmail.com" isExternal>
               <Button
                 leftIcon={<FaEnvelope fill="#3CCF91" />}
                 transition="0.3s"
