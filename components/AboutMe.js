@@ -83,7 +83,7 @@ export default function AboutMe() {
                 text="Software
               Engineer in a B2B startup"
                 content={
-                  <Image src="https://imgur.com/nAd7vhZ"
+                  <Image src="https://i.imgur.com/nAd7vhZ.png"
                   w="100%"
                   maxW={{ base: '300px', lg: '350px' }}
                   maxH={{ base: '300px', lg: '350px' }}
@@ -128,10 +128,7 @@ export default function AboutMe() {
                 alt=""
               />
               <Image
-                src="https://i.imgur.com/CbbuXeI.png"
-                w="100%"
-                maxW={{ base: '300px', lg: '350px' }}
-                maxH={{ base: '300px', lg: '350px' }}
+                src="https://i.imgur.com/HrER1rs.jpg?1"
                 alt="Dhaval Singh"
               />
             </Box>
