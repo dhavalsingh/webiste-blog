@@ -106,8 +106,7 @@ export default function AboutMe() {
               />
               <br />
               <br />
-              When I'm not coding I play games with my friends, watch some show
-              on Netflix, or if the weather's good, play basketball! 🏀
+              When i am not working, i can be found in the gym or playing Dota and if the weather's good, on a long walk.
             </Text>
           </Stack>
         </SlideUpWhenVisible>

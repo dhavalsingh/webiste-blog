@@ -17,8 +17,8 @@ export default function Index({ articles }) {
   return (
     <Container>
       <Head>
-        <title>Blog - Abdul Rahman</title>
-        <meta name="title" content="Blog - Abdul Rahman" />
+        <title>Blog - Dhaval Singh</title>
+        <meta name="title" content="Blog - Dhaval Singh" />
         <meta
           name="description"
           content="Writings on programming, tutorials, and my experiences."
@@ -26,7 +26,7 @@ export default function Index({ articles }) {
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://abdulrahman.id/blog" />
-        <meta property="og:title" content="Blog - Abdul Rahman" />
+        <meta property="og:title" content="Blog - Dhaval Singh" />
         <meta
           property="og:description"
           content="Writings on programming, tutorials, and my experiences."
@@ -35,7 +35,7 @@ export default function Index({ articles }) {
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://abdulrahman.id/" />
-        <meta property="twitter:title" content="Blog - Abdul Rahman" />
+        <meta property="twitter:title" content="Blog - Dhaval Singh" />
         <meta
           property="twitter:description"
           content="Writings on programming, tutorials, and my experiences."

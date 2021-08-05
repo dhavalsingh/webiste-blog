@@ -12,8 +12,8 @@ export default function Index({ projects, articles }) {
     <>
       <Container enableTransition={true}>
         <Head>
-          <title>Abdul Rahman - Software Engineer</title>
-          <meta name="title" content="Abdul Rahman - Software Engineer" />
+          <title>Dhaval SIngh - Software Engineer</title>
+          <meta name="title" content="Dhaval SIngh - Software Engineer" />
           <meta name="keywords" content="abdulrcs, abdulrcs website" />
           <meta
             name="description"
@@ -24,7 +24,7 @@ export default function Index({ projects, articles }) {
           <meta property="og:url" content="https://abdulrahman.id" />
           <meta
             property="og:title"
-            content="Abdul Rahman - Software Engineer"
+            content="Dhaval SIngh - Software Engineer"
           />
           <meta
             property="og:description"
@@ -36,7 +36,7 @@ export default function Index({ projects, articles }) {
           <meta property="twitter:url" content="https://abdulrahman.id/" />
           <meta
             property="twitter:title"
-            content="Abdul Rahman - Software Engineer"
+            content="Dhaval SIngh - Software Engineer"
           />
           <meta
             property="twitter:description"

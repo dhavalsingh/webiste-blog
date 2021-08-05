@@ -37,7 +37,7 @@ export default function Post({ metadata, source }) {
         <Head>
           <title>{metadata.title}</title>
           <meta name="title" content={metadata.title} />
-          <meta property="og:site_name" content="Abdul Rahman" />
+          <meta property="og:site_name" content="Dhaval Singh" />
           <meta name="description" content={metadata.summary} />
 
           <meta property="og:type" content="website" />
@@ -78,13 +78,13 @@ export default function Post({ metadata, source }) {
             >
               <Stack isInline alignItems="center">
                 <Avatar
-                  name="Abdul Rahman"
+                  name="Dhaval Singh"
                   size="xs"
                   src="https://i.imgur.com/CbbuXeI.png"
                   border="1px solid textPrimary"
                 />
                 <Text fontSize={['xs', 'xs', 'sm', 'sm']} color="textPrimary">
-                  Abdul Rahman /{' '}
+                  Dhaval Singh /{' '}
                   {dateFormat(Date.parse(metadata.date), 'mmmm d, yyyy')}
                 </Text>
               </Stack>
