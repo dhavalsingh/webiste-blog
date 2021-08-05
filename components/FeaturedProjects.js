@@ -36,7 +36,7 @@ export default function FeaturedProjects({ projects }) {
                   color="displayColor"
                   fontFamily="Ubuntu"
                 >
-                  All Creative Works.
+                  My Experiences and Projects.
                 </Heading>
                 <NextLink href="/projects" passHref>
                   <Link
@@ -55,7 +55,7 @@ export default function FeaturedProjects({ projects }) {
                 </NextLink>
               </Stack>
               <Text fontSize={{ base: 'md', md: 'xl' }} color="textSecondary">
-                Here's some of my projects that I have worked on.
+                Here's some of the projects that I have worked on
               </Text>
               <NextLink href="/projects">
                 <Link

@@ -127,7 +127,7 @@ export default function AboutMe() {
                 alt=""
               />
               <Image
-                src="https://i.imgur.com/HrER1rs.jpg?1"
+                src="https://i.imgur.com/VecBUiI.png"
                 alt="Dhaval Singh"
               />
             </Box>
