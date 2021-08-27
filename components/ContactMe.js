@@ -37,7 +37,7 @@ export default function ContactMe() {
               {' '}
               Backend Technology.
             </chakra.span>
-            <br /> Let's get in touch and talk more about your projects.
+            <br /> Let's get in touch and talk more.
           </Text>
         </SlideUpWhenVisible>
 

@@ -90,7 +90,7 @@ export default function AboutMe() {
                   alt="Anarock" />
                 }
               />
-              , I'm interested in building fast, agile and robust systems, currently focused in
+              . I'm interested in building fast, agile and robust systems, currently focused in
               <MoreInfo
                 text="Backend Development,"
                 content="Building scalable backend systems using Ruby on Rails"

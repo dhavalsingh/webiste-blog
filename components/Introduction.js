@@ -80,7 +80,7 @@ export default function Introduction() {
             </Box>{' '}
             A self-taught developer{' '}
             {isLargerThan800
-              ? 'with an\ninterest in Computer Science.'
+              ? 'with an\ninterest in .'
               : 'with an interest in Computer Science.'}
           </Heading>
         </SlideFade>
@@ -91,7 +91,7 @@ export default function Introduction() {
           transition={{ enter: { duration: 0.4, delay: 0.9 } }}
         >
           <Text fontSize="display3" color="textSecondary">
-            🚀 Exploring opportunities and side projects.
+            🚀 Building and maintaining robust and scalable software using Ruby on Rails.
             <br />
             <Stack isInline spacing={1}>
               <Box>🎓</Box>
