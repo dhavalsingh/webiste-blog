@@ -80,7 +80,7 @@ export default function Post({ metadata, source }) {
                 <Avatar
                   name="Dhaval Singh"
                   size="xs"
-                  src="https://i.imgur.com/CbbuXeI.png"
+                  src="https://i.imgur.com/VecBUiI.png"
                   border="1px solid textPrimary"
                 />
                 <Text fontSize={['xs', 'xs', 'sm', 'sm']} color="textPrimary">
