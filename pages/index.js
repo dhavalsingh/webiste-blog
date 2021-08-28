@@ -13,38 +13,32 @@ export default function Index({ projects, articles }) {
       <Container enableTransition={true}>
         <Head>
           <title>Dhaval SIngh - Software Engineer</title>
-          <meta name="title" content="Dhaval SIngh - Software Engineer" />
-          <meta name="keywords" content="abdulrcs, abdulrcs website" />
+          <meta name="title" content="Dhaval Singh - Software Engineer" />
+          <meta name="keywords" content="Dhaval singh, Dhaval singh website" />
           <meta
             name="description"
-            content="Software Engineer based in Indonesia, an undergraduate student at Universitas Negeri Surabaya."
+            content="Software Engineer based in India"
           />
 
           <meta property="og:type" content="website" />
-          <meta property="og:url" content="https://abdulrahman.id" />
+          <meta property="og:url" content="https://webiste-blog.vercel.app/" />
           <meta
             property="og:title"
             content="Dhaval SIngh - Software Engineer"
           />
           <meta
             property="og:description"
-            content="Software Engineer based in Indonesia, an undergraduate student at Universitas Negeri Surabaya."
+            content="Software Engineer based in India"
           />
-          <meta property="og:image" content="https://i.imgur.com/AOMvmeJ.png" />
 
           <meta property="twitter:card" content="summary_large_image" />
-          <meta property="twitter:url" content="https://abdulrahman.id/" />
           <meta
             property="twitter:title"
-            content="Dhaval SIngh - Software Engineer"
+            content="Dhaval Singh - Software Engineer"
           />
           <meta
             property="twitter:description"
-            content="Software Engineer based in Indonesia, an undergraduate student at Universitas Negeri Surabaya."
-          />
-          <meta
-            property="twitter:image"
-            content="https://i.imgur.com/AOMvmeJ.png"
+            content="Software Engineer based in India"
           />
         </Head>
 

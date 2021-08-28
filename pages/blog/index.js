@@ -25,24 +25,18 @@ export default function Index({ articles }) {
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://abdulrahman.id/blog" />
+        <meta property="og:url" content="https://webiste-blog.vercel.app/blog" />
         <meta property="og:title" content="Blog - Dhaval Singh" />
         <meta
           property="og:description"
           content="Writings on programming, tutorials, and my experiences."
         />
-        <meta property="og:image" content="https://i.imgur.com/dWmBCSl.png" />
-
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://abdulrahman.id/" />
+        <meta property="twitter:url" content="https://webiste-blog.vercel.app/" />
         <meta property="twitter:title" content="Blog - Dhaval Singh" />
         <meta
           property="twitter:description"
           content="Writings on programming, tutorials, and my experiences."
-        />
-        <meta
-          property="twitter:image"
-          content="https://i.imgur.com/dWmBCSl.png"
         />
       </Head>
       <Stack

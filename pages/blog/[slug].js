@@ -43,7 +43,7 @@ export default function Post({ metadata, source }) {
           <meta property="og:type" content="website" />
           <meta
             property="og:url"
-            content={`https://abdulrahman.id/blog/${metadata.slug}`}
+            content={`https://webiste-blog.vercel.app/blog/${metadata.slug}`}
           />
           <meta property="og:title" content={metadata.title} />
           <meta property="og:description" content={metadata.summary} />
@@ -52,7 +52,7 @@ export default function Post({ metadata, source }) {
           <meta property="twitter:card" content="summary_large_image" />
           <meta
             property="twitter:url"
-            content={`https://abdulrahman.id/blog/${metadata.slug}`}
+            content={`https://webiste-blog.vercel.app/${metadata.slug}`}
           />
           <meta property="twitter:title" content={metadata.title} />
           <meta property="twitter:description" content={metadata.summary} />
