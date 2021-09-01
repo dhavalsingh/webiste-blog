@@ -80,7 +80,7 @@ export default function Introduction() {
             </Box>{' '}
             A self-taught developer{' '}
             {isLargerThan800
-              ? 'with an\ninterest in .'
+              ? 'with an\ninterest in Computer Science.'
               : 'with an interest in Computer Science.'}
           </Heading>
         </SlideFade>
