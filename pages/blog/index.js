@@ -133,13 +133,13 @@ let client = require('contentful').createClient({
 export async function getStaticProps() {
   let data = await client.getEntries({
     content_type: 'blogPosts',
-    limit: 3,
+    limit: 10,
     order: 'sys.createdAt',
   })
 
   return {
     props: {
-      articles: data.items,
+      articles: data.items.reverse(),
     },
   }
 }
