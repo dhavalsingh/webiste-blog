@@ -71,11 +71,10 @@ export async function getStaticProps() {
     content_type: 'featuredProjects',
     order: 'fields.order',
   })
-
   let data2 = await client.getEntries({
     content_type: 'blogPosts',
-    limit: 4,
     order: 'sys.createdAt',
+    limit: 10,
   })
   return {
     props: {
