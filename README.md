@@ -1,8 +1,4 @@
-![](https://i.imgur.com/aUVHd1c.png)
 
----
-
-## ⚡ abdulrahman.id
 
 I've decided to open-source my latest portfolio website! it has dynamic content management to add projects and posts using Contentful CMS, and was built using Next.js and Chakra UI.
 
@@ -70,7 +66,6 @@ Start the project by `npm run dev` or `yarn dev`
 ### Deployment
 You can deploy easily by using [Vercel](https://vercel.com/) 🎉  
   
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fabdulrcs%2Fabdulrahman.id)
 
 ## 📌 Overview
 `pages/index.js` = Homepage  
