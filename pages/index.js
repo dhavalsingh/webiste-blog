@@ -52,7 +52,6 @@ export default function Index({ projects, articles }) {
         >
           <Introduction />
           <AboutMe />
-          <FeaturedProjects projects={projects} />
           <LatestArticle articles={articles} />
           <ContactMe />
         </Stack>

@@ -80,13 +80,10 @@ export default function AboutMe() {
               fast-forward to today, I do programming in various languages and
               technologies, and have the privilege to work as a{' '}
               <MoreInfo
-                text="Software
-              Engineer in a B2B startup"
+                text="Senior Software
+              Developer in a B2B startup"
                 content={
                   <Image src="https://i.imgur.com/nAd7vhZ.png"
-                  w="100%"
-                  maxW={{ base: '300px', lg: '350px' }}
-                  maxH={{ base: '300px', lg: '350px' }}
                   alt="Anarock" />
                 }
               />
