@@ -6,6 +6,7 @@ import FeaturedProjects from '../components/FeaturedProjects'
 import LatestArticle from '../components/LatestArticle'
 import AboutMe from '../components/AboutMe'
 import ContactMe from '../components/ContactMe'
+import Script from 'next/script'
 
 export default function Index({ projects, articles }) {
   return (
