@@ -6,7 +6,6 @@ import FeaturedProjects from '../components/FeaturedProjects'
 import LatestArticle from '../components/LatestArticle'
 import AboutMe from '../components/AboutMe'
 import ContactMe from '../components/ContactMe'
-import Script from 'next/script'
 
 export default function Index({ projects, articles }) {
   return (
@@ -41,21 +40,11 @@ export default function Index({ projects, articles }) {
             property="twitter:description"
             content="Software Engineer based in India"
           />
-          <Script>
-            strategy="afterInteractive"
-            dangerouslySetInnerHTML={{
-              __html: `
-              (function(c,l,a,r,i,t,y){
-                c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-                t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-                y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-              })(window, document, "clarity", "script", "aasghfg62l");
-              `
-            }}
-          </Script>
-          <script type="text/javascript">
-
-          </script>
+          <script dangerouslySetInnerHTML={{ __html: ` (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "aasghfg62l");`}} />
         </Head>
 
         <Stack
