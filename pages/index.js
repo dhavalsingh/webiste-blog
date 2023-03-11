@@ -78,7 +78,7 @@ export async function getStaticProps() {
   let data2 = await client.getEntries({
     content_type: 'blogPosts',
     order: 'sys.createdAt',
-    limit: 10,
+    limit: 100,
   })
   return {
     props: {

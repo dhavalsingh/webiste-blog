@@ -133,7 +133,7 @@ let client = require('contentful').createClient({
 export async function getStaticProps() {
   let data = await client.getEntries({
     content_type: 'blogPosts',
-    limit: 10,
+    limit: 100,
     order: 'sys.createdAt',
   })
 
