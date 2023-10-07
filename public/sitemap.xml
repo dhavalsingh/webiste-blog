@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.dsdev.in/blog</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/concurrency-101-guide</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/jemalloc-rails-memory</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/memory-leak-bloat</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/request-queue-rails</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/github-bug-nil-id</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/json-postgres-fast</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/store-acc-nested-json</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/aws-s3-stub</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/cqs</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/HashWithIndifferentAccess</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/three_value_problem</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/belongs_to_query</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/benchmark_ruby</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/jsonb</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/cat%20driven%20dev</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/Ruby%20on%20rails</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.dsdev.in/blog/how%20to%20stop%20rails%20server</loc>
+  <lastmod>2023-10-07T10:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
